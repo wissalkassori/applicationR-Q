@@ -1,5 +1,5 @@
-# Plateforme de questions/réponses
-# Contexte
+# 📌 Plateforme de questions/réponses
+# 📘 Contexte
 Dans le cadre de la digitalisation des échanges de connaissances et du soutien collaboratif, nous développons 
 une plateforme web interactive de questions/réponses
 . Cette application a pour but de permettre aux utilisateurs de poser des questions sur divers sujets, d’y répondre, et de consulter les réponses proposées par d'autres membres de la communauté. 
