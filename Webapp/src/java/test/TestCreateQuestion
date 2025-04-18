@@ -1,0 +1,20 @@
+package test;
+
+import dao2.QuestionDao;
+import entities.Categorie;
+import entities.Question;
+import entities.User;
+
+public class TestCreateQuestion {
+    public static void main(String[] args) {
+        QuestionDao dao = new QuestionDao();
+
+        // Tu peux récupérer ces objets depuis la base si tu as des données
+        Categorie cat = new Categorie("Java");
+        User user = new User("Lina", "lina123");
+
+        Question question = new Question("POO", "C'est quoi une classe ?", cat, user);
+        boolean created = dao.create(question);
+        System.out.println("Question created: " + created);
+    }
+}
