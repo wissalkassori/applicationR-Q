@@ -1,0 +1,23 @@
+package test;
+
+import dao2.ReponseDao;
+import entities.Question;
+import entities.Reponse;
+import entities.User;
+
+public class TestCreateReponse {
+    public static void main(String[] args) {
+        ReponseDao dao = new ReponseDao();
+
+        // Objets nécessaires pour la réponse (exemple simplifié)
+        Question question = new Question(); // charge une vraie question si possible
+       // question.setId(1); // assure-toi que cette question existe
+
+        User user = new User(); // charge un vrai user si possible
+        user.setId(1); // assure-toi que cet utilisateur existe
+
+        Reponse reponse = new Reponse("Une classe est un plan de création d'objets", question, user);
+        boolean created = dao.create(reponse);
+        System.out.println("Reponse created: " + created);
+    }
+}
