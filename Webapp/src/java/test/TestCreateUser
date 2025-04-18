@@ -1,0 +1,13 @@
+package test;
+
+import dao2.UserDao;
+import entities.User;
+
+public class TestCreateUser {
+    public static void main(String[] args) {
+        UserDao dao = new UserDao();
+        User user = new User("Ahmed",  "pass123");
+        boolean created = dao.create(user);
+        System.out.println("User created: " + created);
+    }
+}
