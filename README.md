@@ -1,4 +1,7 @@
 # 📌 Plateforme de questions/réponses
+
+![image](https://github.com/user-attachments/assets/6549c00e-e2a4-48b2-8e2e-aa4fec6dfed3)
+
 # 📘 Contexte
 Dans le cadre de la digitalisation des échanges de connaissances et du soutien collaboratif, nous développons 
 une plateforme web interactive de questions/réponses
@@ -15,6 +18,11 @@ L’objectif principal de ce projet est de développer une application web convi
 + Fournir une page “Mes questions/réponses” pour que chaque utilisateur puisse suivre ses propres contributions.
 + Intégrer des statistiques visuelles  pour montrer la répartition des questions par catégorie.
 + Assurer la sécurité et la gestion des utilisateurs
+ # 🛠️ Technologies Utilisées 
++Backend : Java (Hibernate, Servlets)
++Frontend : JSP, Bootstrap, AJAX
++Base de données : MySQL
++Visualisation : Chart.js
   # Diagramme de classe
   
   ![WhatsApp Image 2025-04-16 at 12 59 15_20f45a39](https://github.com/user-attachments/assets/958b2bc0-30d5-4d1c-bebb-822591fc2d7d)
