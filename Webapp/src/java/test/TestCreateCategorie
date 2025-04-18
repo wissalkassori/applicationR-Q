@@ -1,0 +1,13 @@
+package test;
+
+import dao2.CategorieDao;
+import entities.Categorie;
+
+public class TestCreateCategorie {
+    public static void main(String[] args) {
+        CategorieDao dao = new CategorieDao();
+        Categorie cat = new Categorie("Programmation");
+        boolean created = dao.create(cat);
+        System.out.println("Categorie created: " + created);
+    }
+}
