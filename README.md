@@ -43,19 +43,6 @@ L’objectif principal de ce projet est de développer une application web convi
 
 
 
-    # Des prises d'écrans du site
-    
-    ![WhatsApp Image 2025-05-05 at 18 57 12_b26b904b](https://github.com/user-attachments/assets/e47da449-f681-4b41-84b0-7c28ee140f4b)
-    ![WhatsApp Image 2025-05-05 at 18 57 47_070c3bfb](https://github.com/user-attachments/assets/f2b6c23a-6ab3-4e17-a7bc-d2e40c3d5623)
-    ![WhatsApp Image 2025-05-05 at 19 10 22_31abea1e](https://github.com/user-attachments/assets/26f10f5f-2223-4e1d-af10-dac9e08be731)
-    ![WhatsApp Image 2025-05-05 at 18 59 05_8d28bc0b](https://github.com/user-attachments/assets/b3997994-620f-4419-a6e1-bb948f5a0caa)
-    ![WhatsApp Image 2025-05-05 at 19 00 16_8be43128](https://github.com/user-attachments/assets/13edc438-7059-46cf-8706-87a8753390a5)
-    ![WhatsApp Image 2025-05-05 at 18 54 33_34bf47aa](https://github.com/user-attachments/assets/70189398-5cc1-4e49-912d-3daaf67f6d07)
-    ![WhatsApp Image 2025-05-05 at 19 09 01_ddce312b](https://github.com/user-attachments/assets/b8bcb802-2506-4310-8373-435e1383f3d5)
-
-
-
-
     
 
 
